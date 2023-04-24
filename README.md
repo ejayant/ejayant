@@ -1,4 +1,3 @@
-<img src="https://media-exp1.licdn.com/dms/image/D4D16AQFK14jm_O6tLw/profile-displaybackgroundimage-shrink_350_1400/0/1667667268876?e=1673481600&v=beta&t=YENeNCpH-ExKXuOOcBIxymnK0z5_T5GWUQiDvuAuY_Y" width = "100%">
 <h1 align="center">Hi 👋, I'm Jayant Rawat</h1>
 <h2 align="center">A passionate frontend developer from India</h2>
 
