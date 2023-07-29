@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jayant Rawat</h1>
-<h2 align="center">A passionate frontend developer from India</h2>
+<h2 align="center">A passionate python developer from India</h2>
 
 
 
--  I’m currently working for **Wipro Limited**[Total Experience: 1.5 years]
+-  I’m currently working for **Wipro Limited**[Total Experience: 2 years]
 
--  I’m currently learning **ReactJS**
+-  I’m currently learning **new skills**
 
 -  All of my projects are available at [https://github.com/ejayant](https://github.com/ejayant)
-
--  Ask me about **HTML, CSS, Javascript**
 
 -  You can reach me at **ejayant1999@gmail.com**
 
