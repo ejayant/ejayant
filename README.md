@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jayant Rawat</h1>
-<h2 align="center">A passionate python developer from India</h2>
-
-
-
--  I’m currently working for **Wipro Limited**[Total Experience: 2 years]
+<h1 align="center">Hi 👋, I'm Jayant Rawat</h1
 
 -  I’m currently learning **new skills**
 
